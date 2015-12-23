@@ -29,7 +29,7 @@
 <project path="frameworks/base" remote="flex" name="frameworks_base" />
 <project path="packages/apps/OmniSwitch" remote="flex" name="packages_apps_OmniSwitch" />
 <project path="packages/apps/Settings" remote="flex" name="packages_apps_Settings" />
-<project path="vendor/flex" remote="flex" name="vendor_flex" />
+<project path="vendor/flex" remote="flex" name="vendor_flex" clone-depth="1" />
 <project path="system/core" name="system_core" remote="flex" />
 <project path="manifest" name="manifest" remote="flex" />
 
